@@ -3,7 +3,7 @@
 ## This app is a react based application , which allows users to keep track of their day to day activity. 
 ### App's main usage are:
 
-- keep a note of whatever activity the user is doing,
+- keeps a note of whatever activity the user is doing,
 - can also be used to mark a review for a book or any item presently working with,
 - can be used to set agenda for a day/meeting/event,
 - can also be used as a draft write up for any topic.
